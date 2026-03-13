@@ -5,8 +5,9 @@ By combining a **high-quality RS485 transceiver** with a **ruggedized power supp
 
 ## 🛠 Key Features
 * **Integrated RS485 Transceiver**: Enables seamless Modbus RTU communication for interfacing with industrial sensors, VFDs, and meters.
-* **Onboard Power Supply**: A wide-input voltage regulator allowing you to power both the Pi and the HAT directly from industrial 12V or 24V DC rails.
-* OpenPLC Optimized: Pinout and timing tuned for low-latency execution of Ladder Logic and Structured Text.Standard HAT Form Factor: Snaps directly onto the 40-pin GPIO header.
+* **Onboard Power Supply**: A wide-input voltage regulator allowing you to power both the Pi and the HAT directly from a 7 - 32 VDC power supply.
+* **OpenPLC Optimized**: Pinout and timing tuned for low-latency execution of Ladder Logic and Structured Text.
+* **Standard HAT Form Factor**: Snaps directly onto the 40-pin GPIO header.
 
 ## 📂 Project Contents
 * Schematics: Detailed circuit diagrams including the transceiver isolation and buck converter stages.
