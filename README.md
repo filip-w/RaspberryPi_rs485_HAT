@@ -14,10 +14,7 @@ By combining a **high-quality RS485 transceiver** with a **ruggedized power supp
   <img width="884" height="885" alt="image" src="https://github.com/user-attachments/assets/90bff432-cefd-410c-8198-6fb4b9c6ffca" />
 
 * Bill of Materials (BOM): Links to the specific modules used in this build.
-* Prototype: Photos of the Rev 1.0 hardware in action.
-  ![20260221_133056](https://github.com/user-attachments/assets/ffbc4e4b-a593-4a57-bf8d-71df62d40c7d)
-* PCB version: Photo of the 3D rendered PCB.
-  <img width="807" height="860" alt="image" src="https://github.com/user-attachments/assets/668e8a85-c00c-4a27-9af0-a31e541363c7" />
+* PCB design.
 
 
 ## 🔧 Hardware Breakdown
@@ -26,6 +23,17 @@ By combining a **high-quality RS485 transceiver** with a **ruggedized power supp
 | RS485 Module | Signal conversion for Modbus RTU | [[Link to Module]](https://s.click.aliexpress.com/e/_c3xQa1XV) |
 | DC-DC Converter | 24V to 5V Step-down | [[Link to Module]](https://s.click.aliexpress.com/e/_c4Os6TRH) |
 | Modbus IO module | RS485 Slave | [[Link to Module]](https://s.click.aliexpress.com/e/_c3Pnotx9) |
+
+* Photo of the 3D rendered PCB.
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/668e8a85-c00c-4a27-9af0-a31e541363c7" />
+
+* Photos of the Rev 1.0 hardware.
+  
+![20260221_133056](20260314_083950.png)
+  
+* HAT mounted to a Raspberry PI
+
+![20260221_133056](20260314_084102.png)
 
 ## 🚦 Quick Start with OpenPLCHardware Setup: 
 1. Mount the HAT and connect your 24V DC supply.
