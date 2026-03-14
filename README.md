@@ -3,6 +3,10 @@ This repository contains the design files and documentation for a custom Raspber
 By combining a **high-quality RS485 transceiver** with a **ruggedized power supply**, this board transforms a standard Raspberry Pi into a Modbus-capable PLC (Programmable Logic Controller) ready for **OpenPLC** runtime.
 ![20260221_133352](https://github.com/user-attachments/assets/7865b642-ac1f-4ac6-a047-c1b632ad7eb4)
 
+The HAT is avaliable in my Tindie Store:
+
+<a href="https://www.tindie.com/stores/filipwie/?ref=offsite_badges&utm_source=sellers_FilipWie&utm_medium=badges&utm_campaign=badge_large"><img src="https://d2ss6ovg47m0r5.cloudfront.net/badges/tindie-larges.png" alt="I sell on Tindie" width="200" height="104"></a>
+
 ## 🛠 Key Features
 * **Integrated RS485 Transceiver**: Enables seamless Modbus RTU communication for interfacing with industrial sensors, VFDs, and meters.
 * **Onboard Power Supply**: A wide-input voltage regulator allowing you to power both the Pi and the HAT directly from a 7 - 32 VDC power supply.
